@@ -1,0 +1,14 @@
+{
+  "name": "mimol-automation",
+  "version": "1.0.0",
+  "description": "MIMol - AI-Powered Automation System",
+  "main": "mimol_core.js",
+  "dependencies": {
+    "puppeteer": "^21.3.0"
+  },
+  "scripts": {
+    "start": "node mimol_core.js"
+  },
+  "author": "Favour Adegboye",
+  "license": "MIT"
+}
